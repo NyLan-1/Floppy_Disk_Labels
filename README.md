@@ -1,6 +1,8 @@
 # Floppy_Disk_Labels
 Some Floppy Disks Labels for Retro Computers
 
+PLEASE DO NOT USE THESE LABEL TO SELL FLOPPIES ON EBAY AS GENUINE...
+
 I initially created some Labels for MS-DOS 6.22 and Windows 98SE Boot Disk.  
 Updated file for MS-DOS 6.2 variation
 
