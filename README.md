@@ -2,7 +2,7 @@
 Some Floppy Disks Labels for Retro Computers
 
 I initially created some Labels for MS-DOS 6.22 and Windows 98SE Boot Disk
-Updated my file for MS-DOS 6.2 variation
+Updated file for MS-DOS 6.2 variation
 
 Printing them on Avery Labels code L7666 - 70 x 52 mm
 Online Avery Application : https://www.avery.co.uk/template-l7666
